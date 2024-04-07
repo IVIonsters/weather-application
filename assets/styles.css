@@ -36,7 +36,8 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: hsl(160, 100%, 65%);
+    background-color: hsl(300, 100%, 50%);
+    text-shadow: 2px 2px 5px hsla(0, 0%, 0%, 0.5);
     outline: 2px dashed black;
 } 
 
@@ -68,15 +69,30 @@ p {
     margin-bottom: 25px;
 }
 
+.cityDisplay:hover,.tempDisplay:hover {
+    color: hsl(192, 100%, 75%);
+    text-shadow: 2px 2px 5px hsla(0, 0%, 0%, 0.5);
+}
+
 .humidityDisplay {
     font-weight: bold;
     margin-bottom: 25px;
+}
+
+.humidityDisplay:hover {
+    color: hsl(300, 100%, 50%);
+    text-shadow: 2px 2px 5px hsla(0, 0%, 0%, 0.5);
 }
 
 .descDisplay {
     font-style: italic;
     font-weight: bold;
     font-size: 2rem;
+}
+
+.descDisplay:hover {
+    color: hsl(300, 100%, 50%);
+    text-shadow: 2px 2px 5px hsla(0, 0%, 0%, 0.5);
 }
 
 .weatherEmoji {
