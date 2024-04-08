@@ -1,4 +1,4 @@
-# PROJECT REPO TITLE HERE
+# Basic Weather Application
 
 ## Table of Contents
 
