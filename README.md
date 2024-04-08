@@ -11,7 +11,7 @@
 
 
 ## Description
-    INSERT PROJECT DESCRIPTION HERE MAHNNNNNNN
+    Basic weather application to local weather at any given location    
 ## Languages
 
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,23 +20,25 @@
 
 ## Features
 
-* **DEFINE FEATURES MAN:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
-* **DEFINE FEATURES MAN:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
-* **DEFINE FEATURES MAN:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
-* **DEFINE FEATURES MAN:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
-* **DEFINE FEATURES MAN.:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
-* **DEFINE FEATURES MAN:** DESCRIBE FEATURES HERE BRUH --- IT IS THE WAY BRUH
+* **Global Search Functionality:** Search will recognize any known location world wide.
+* **Reach Weather Button:** Weather search button changes color and border on hover, responds to click and enter key.
+* **Reactive Text:** all displayed data is reactive to hover. Color Changes, more to come in future 
+* **Weather Emoji:** Weather emoji is set to change based on weather ID response from API 
+* **API Integration:** Weather API integrated for real time data across the globe.
+* **Javascript Weather Degree Conversion :** Weather correctly converted to fahrenheit in JavaScript.
 
 ## Usage
 
-* EXPLAIN GENERAL DESIGN USAGE
+* Type in any location globally you would like to know the current weather temperature, humidity, and conditions.
+    Click Get Weather or simply hit enter and weather information will render on screen.
 
-* [LIVE PROJECT LINK HERE](https://ivionsters.github.io/IVIonsters-Designs-Blog/)
+* [LIVE Web link](https://ivionsters.github.io/weather-application/)
 
-* [REPO LINK GOES HERE](https://github.com/IVIonsters/IVIonsters-Designs-Blog)
+* [IVIonsters Designs Repo Link](https://github.com/IVIonsters/weather-application)
 
-* ![SCREENSHOTS GO HERE](./assets/refimages/lightmodemain.png)
-* ![SCRENSHOTS HERE](./assets/refimages/lightmodeblog.png)
+* ![SCRENSHOTS HERE](./images/weatherapp.gif)
+* ![SCREENSHOTS GO HERE](./images/screenshot.png)
+
 
 
 ## Credits
